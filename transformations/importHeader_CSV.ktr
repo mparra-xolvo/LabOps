@@ -117,7 +117,7 @@
            <method>none</method>
            <schema_name/>
            </partitioning>
-    <filename>C&#x3a;&#x5c;DataAnalytics&#x5c;labops&#x5c;data&#x5c;Input&#x5c;05369.csv</filename>
+    <filename>&#x24;&#x7b;filename&#x7d;</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -475,8 +475,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>92</xloc>
-      <yloc>41</yloc>
+      <xloc>96</xloc>
+      <yloc>46</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
